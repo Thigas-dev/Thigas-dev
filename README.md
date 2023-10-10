@@ -1,6 +1,5 @@
 
-<img align="center" style="margin-bottom:100px" width=100% src="https://github.com/rafaelalexandrino/rafaelalexandrino/assets/" />
-&nbsp;&nbsp;&nbsp;
+![Olá, eu sou o Thiago](https://github.com/rafaelalexandrino/rafaelalexandrino/assets/147166620/d23654bd-1c5a-44be-afa1-f09aba1ba690)
 
 <p align="center">I ❤️ solve great challenges using tech. <br><br> From backend development using Flask to frontend development using ReactTS, I am <strong>passionate to discover new stuffs</strong> and use them to create high quality solutions. Today, I'm a <strong>full stack mid-level developer</strong> focused on web development.</p>&nbsp;
 

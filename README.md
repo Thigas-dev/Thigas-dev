@@ -1,5 +1,5 @@
 
-![Olá, eu sou o Thiago (1)](https://github.com/rafaelalexandrino/rafaelalexandrino/assets/147166620/6549b1c9-1b3c-475a-b75c-40555322fd42)
+![Olá, eu sou o Thiago (3)](https://github.com/rafaelalexandrino/rafaelalexandrino/assets/147166620/d4b8bf31-d39a-4d80-a04e-ab4d0369ca54)
 
 <p align="center">"Aprendendo a codificar, uma linha de cada vez. 🚀"</p>&nbsp;
 

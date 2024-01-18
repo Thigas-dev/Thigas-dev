@@ -3,14 +3,11 @@
 
 <p align="center">"Aprendendo a codificar, uma linha de cada vez. 🚀"</p>&nbsp;
 
-<div  align="center" style="margin-bottom:100px">
-<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=Thigas-dev&theme=radical&mode=weekly" />
-<img width=40% align="center" src="https://github-readme-stats-git-main-Thigas-dev.vercel.app/api/top-langs/?username=Thigas-dev&show_icons=true&theme=radical&layout=compact" />
- </div>
- 
- &nbsp;
- &nbsp;
+## Linguagens utilazadas
+<hr>
 
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Thigas-dev&theme=nord&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 
 ## My Skills
